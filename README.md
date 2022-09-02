@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Elizabeth Thomas , a software engineer passionate about building edtech products to live.
+- 👋 Hi, I’m Elizabeth Thomas , a software engineer passionate about working on the frontend side of applications.
 - 👀 I’m interested in Javascript, Typescript, Reactjs and improving the performance of applications.
-- 🌱 I’m currently learning Go and Django to build end-to end products.
-- 💞️ I’m looking to collaborate on open source projects in Javascript and Go.
+- 🌱 I’m currently building clones of web apps I find interesting!
+- 💞️ I’m looking to collaborate on open source projects in Javascript.
 
 
 <!---
