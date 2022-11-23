@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Hi!+I+am+Elizabeth+Thomas;I+am+a+Frontend+Developer;I+love+to+build)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&color=000000&width=436&height=300&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/elizabeththomas07">
@@ -23,7 +23,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: I’m currently building clones of web apps I find interesting!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth Thomas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeththomas07)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeththomas07)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
