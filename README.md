@@ -38,9 +38,13 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+---
 
-### :fire: My Stats :
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabeththomas92"/>
+### :writing_hand: Blog Posts :
+<ul style="list-style-type:disc;">
+ <li><a href="https://medium.com/@elizabeththomas92/clone-an-array-using-spread-operator-b8ea1cc5c004">Clone an array using spread operator</a></li>
+  <li><a href="https://medium.com/@elizabeththomas92/office-rentals-analysis-in-kochi-779d381b0be6">Office Rentals analysis using Python and Selenium</a></li>
+</ul>  
 <!---
 elizabeththomas92/elizabeththomas92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
