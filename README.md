@@ -14,7 +14,6 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
 ### :woman_technologist: About Me :
 I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -25,13 +24,6 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: I’m currently building clones of web apps I find interesting!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/elizabeththomas07))
-
-- 👋 Hi, I’m Elizabeth Thomas , a software engineer passionate about working on the frontend side of applications.
-- 👀 I’m interested in Javascript, Typescript, Reactjs and improving the performance of applications.
-- 🌱 I’m currently building clones of web apps I find interesting!
-- 💞️ I’m looking to collaborate on open source projects in Javascript.
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -46,10 +38,9 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
----
 
 ### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=elizabeththomas92&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabeththomas92"/>
 <!---
 elizabeththomas92/elizabeththomas92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
