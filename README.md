@@ -23,7 +23,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: I’m currently building clones of web apps I find interesting!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/elizabeththomas07))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth+Thomas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeththomas07)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -41,7 +41,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :writing_hand: Blog Posts :
-<ul style="list-style-type:disc;">
+<ul style="list-style-type:disc;font-weight:600;">
  <li><a href="https://medium.com/@elizabeththomas92/clone-an-array-using-spread-operator-b8ea1cc5c004">Clone an array using spread operator</a></li>
   <li><a href="https://medium.com/@elizabeththomas92/office-rentals-analysis-in-kochi-779d381b0be6">Office Rentals analysis using Python and Selenium</a></li>
 </ul>  
