@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi!+I+am+Elizabeth+Thomas;A+Frontend+Developer;I+love+to+Build!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi!I+am+Elizabeth+Thomas;A+Frontend+Developer;I+love+to+Build!)](https://git.io/typing-svg)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/elizabeththomas07">
